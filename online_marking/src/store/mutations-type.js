@@ -1,0 +1,19 @@
+export const SET_TIMER = 'SET_TIMER' // 设置倒计时
+export const SET_PAGEINFO = 'SET_PAGEINFO' // 设置分页
+export const SET_SCOREINFO = 'SET_SCOREINFO' // 设置分数
+export const SET_LOGIN_INFO = 'SET_LOGIN_INFO' // 设置登录信息
+export const SET_MENU_MARK = 'SET_MENU_MARK' // 设置导航配置
+export const SET_SCORE_TYPE = 'SET_SCORE_TYPE' // 设置打分模式
+export const SET_QUESTION_ID = 'SET_QUESTION_ID' // 设置题目ID
+export const SET_TEST_NAME = 'SET_TEST_NAME' // 设置当前考试信息
+export const SET_NUM_SCORE = 'SET_NUM_SCORE' // 设置记分模式累计分值
+export const SET_QUESTION_AVG_SCORE = 'SET_QUESTION_AVG_SCORE' // 设置平均分值
+export const SET_QUESTION_TITLE = 'SET_QUESTION_TITLE' // 设置管理界面试题分配信息
+export const SET_QUESTION_SCORE_COUNT = 'SET_QUESTION_SCORE_COUNT' // 设置累计批阅量
+export const SET_QUESTION_SCORE_STATE = 'SET_QUESTION_SCORE_STATE' // 设置当前批阅窗口状态
+export const SET_QUESTION_SCORE_TAG = 'SET_QUESTION_SCORE_TAG' // 设置保存当前批阅窗口的标记
+export const SET_QUESTION_SCORE_INFO = 'SET_QUESTION_SCORE_INFO' // 设置选择的批阅题号
+export const SET_BASE64IMG_INFO = 'SET_BASE64IMG_INFO' // 设置base65img坐标信息
+
+export const SET_EQUIPMENT = 'SET_EQUIPMENT' // 存储用户端
+export const SET_IMG_INFO = 'SET_IMG_INFO' // 存储canvas图像数组数据

@@ -1,0 +1,352 @@
+{
+  "BasicInfo": [
+    {
+      "TNum": 6349,
+      "TAvg": 2.4,
+      "TZNum": 700,
+      "TAvgDropZero": 2.7,
+      "YXRatio": 100.0,
+      "TAvgTime": 1.07,
+      "TVarP": 1.35,
+      "PaperCount": 6349,
+      "PaperMarkCount": 6349,
+      "QMaxCount": 1753
+    }
+  ],
+  "StatCol": [
+    {
+      "RID": 1,
+      "ColName": "MarkUserID",
+      "ColIndex": "MarkUserID",
+      "SortType": "text"
+    },
+    {
+      "RID": 2,
+      "ColName": "评卷人",
+      "ColIndex": "UserName",
+      "SortType": "text"
+    },
+    {
+      "RID": 3,
+      "ColName": "任务量",
+      "ColIndex": "TaskNumber",
+      "SortType": "int"
+    },
+    {
+      "RID": 4,
+      "ColName": "完成量",
+      "ColIndex": "WorkNum",
+      "SortType": "int"
+    },
+    {
+      "RID": 5,
+      "ColName": "有效量",
+      "ColIndex": "YXNum",
+      "SortType": "int"
+    },
+    {
+      "RID": 6,
+      "ColName": "有效率",
+      "ColIndex": "YXRatio",
+      "SortType": "number"
+    },
+    {
+      "RID": 7,
+      "ColName": "均分",
+      "ColIndex": "avgScore",
+      "SortType": "number"
+    },
+    {
+      "RID": 8,
+      "ColName": "速度",
+      "ColIndex": "AvgTime",
+      "SortType": "number"
+    },
+    {
+      "RID": 9,
+      "ColName": "方差",
+      "ColIndex": "varpMark",
+      "SortType": "number"
+    },
+    {
+      "RID": 10,
+      "ColName": "自评指数",
+      "ColIndex": "ZPRatio",
+      "SortType": "number"
+    },
+    {
+      "RID": 11,
+      "ColName": "4.0",
+      "ColIndex": "M4.0",
+      "SortType": "int"
+    },
+    {
+      "RID": 12,
+      "ColName": "3.5",
+      "ColIndex": "M3.5",
+      "SortType": "int"
+    },
+    {
+      "RID": 13,
+      "ColName": "3.0",
+      "ColIndex": "M3.0",
+      "SortType": "int"
+    },
+    {
+      "RID": 14,
+      "ColName": "2.5",
+      "ColIndex": "M2.5",
+      "SortType": "int"
+    },
+    {
+      "RID": 15,
+      "ColName": "2.0",
+      "ColIndex": "M2.0",
+      "SortType": "int"
+    },
+    {
+      "RID": 16,
+      "ColName": "1.5",
+      "ColIndex": "M1.5",
+      "SortType": "int"
+    },
+    {
+      "RID": 17,
+      "ColName": "1.0",
+      "ColIndex": "M1.0",
+      "SortType": "int"
+    },
+    {
+      "RID": 18,
+      "ColName": "0.5",
+      "ColIndex": "M0.5",
+      "SortType": "int"
+    },
+    {
+      "RID": 19,
+      "ColName": "0.0",
+      "ColIndex": "M0.0",
+      "SortType": "int"
+    }
+  ],
+  "StatDetail": [
+    {
+      "MarkUserID": "dl129",
+      "UserName": "沈东",
+      "TaskNumber": 0,
+      "WorkNum": 353,
+      "YXNum": 353,
+      "YXRatio": 100.0,
+      "avgScore": 2.43,
+      "AvgTime": 1.4,
+      "varpMark": 1.36,
+      "ZPRatio": 0.0,
+      "M4.0": 105,
+      "M3.5": 37,
+      "M3.0": 9,
+      "M2.5": 3,
+      "M2.0": 103,
+      "M1.5": 39,
+      "M1.0": 5,
+      "M0.5": 9,
+      "M0.0": 43
+    },
+    {
+      "MarkUserID": "dl130",
+      "UserName": "许佳",
+      "TaskNumber": 0,
+      "WorkNum": 684,
+      "YXNum": 684,
+      "YXRatio": 100.0,
+      "avgScore": 2.37,
+      "AvgTime": 1.1,
+      "varpMark": 1.35,
+      "ZPRatio": 0.0,
+      "M4.0": 182,
+      "M3.5": 84,
+      "M3.0": 8,
+      "M2.5": 4,
+      "M2.0": 204,
+      "M1.5": 90,
+      "M1.0": 9,
+      "M0.5": 22,
+      "M0.0": 81
+    },
+    {
+      "MarkUserID": "dl131",
+      "UserName": "朱宁",
+      "TaskNumber": 0,
+      "WorkNum": 853,
+      "YXNum": 853,
+      "YXRatio": 100.0,
+      "avgScore": 2.35,
+      "AvgTime": 0.5,
+      "varpMark": 1.33,
+      "ZPRatio": 0.0,
+      "M4.0": 222,
+      "M3.5": 103,
+      "M3.0": 8,
+      "M2.5": 3,
+      "M2.0": 259,
+      "M1.5": 114,
+      "M1.0": 18,
+      "M0.5": 40,
+      "M0.0": 86
+    },
+    {
+      "MarkUserID": "dl132",
+      "UserName": "缪利霞",
+      "TaskNumber": 0,
+      "WorkNum": 557,
+      "YXNum": 557,
+      "YXRatio": 100.0,
+      "avgScore": 2.35,
+      "AvgTime": 0.8,
+      "varpMark": 1.33,
+      "ZPRatio": 0.0,
+      "M4.0": 156,
+      "M3.5": 51,
+      "M3.0": 5,
+      "M2.5": 8,
+      "M2.0": 169,
+      "M1.5": 69,
+      "M1.0": 14,
+      "M0.5": 36,
+      "M0.0": 49
+    },
+    {
+      "MarkUserID": "dl133",
+      "UserName": "李侃叶",
+      "TaskNumber": 0,
+      "WorkNum": 755,
+      "YXNum": 755,
+      "YXRatio": 100.0,
+      "avgScore": 2.35,
+      "AvgTime": 2.2,
+      "varpMark": 1.38,
+      "ZPRatio": 0.0,
+      "M4.0": 208,
+      "M3.5": 90,
+      "M3.0": 5,
+      "M2.5": 1,
+      "M2.0": 217,
+      "M1.5": 96,
+      "M1.0": 19,
+      "M0.5": 19,
+      "M0.0": 100
+    },
+    {
+      "MarkUserID": "dl134",
+      "UserName": "吴利亚",
+      "TaskNumber": 0,
+      "WorkNum": 958,
+      "YXNum": 958,
+      "YXRatio": 100.0,
+      "avgScore": 2.31,
+      "AvgTime": 1.1,
+      "varpMark": 1.37,
+      "ZPRatio": 0.0,
+      "M4.0": 253,
+      "M3.5": 109,
+      "M3.0": 6,
+      "M2.5": 6,
+      "M2.0": 281,
+      "M1.5": 117,
+      "M1.0": 30,
+      "M0.5": 32,
+      "M0.0": 124
+    },
+    {
+      "MarkUserID": "dl135",
+      "UserName": "周慧",
+      "TaskNumber": 0,
+      "WorkNum": 1139,
+      "YXNum": 1139,
+      "YXRatio": 100.0,
+      "avgScore": 2.38,
+      "AvgTime": 0.5,
+      "varpMark": 1.35,
+      "ZPRatio": 0.0,
+      "M4.0": 327,
+      "M3.5": 122,
+      "M3.0": 10,
+      "M2.5": 4,
+      "M2.0": 331,
+      "M1.5": 144,
+      "M1.0": 33,
+      "M0.5": 50,
+      "M0.0": 118
+    },
+    {
+      "MarkUserID": "dl136",
+      "UserName": "胡立",
+      "TaskNumber": 0,
+      "WorkNum": 623,
+      "YXNum": 623,
+      "YXRatio": 100.0,
+      "avgScore": 2.34,
+      "AvgTime": 1.4,
+      "varpMark": 1.31,
+      "ZPRatio": 0.0,
+      "M4.0": 165,
+      "M3.5": 60,
+      "M3.0": 9,
+      "M2.5": 2,
+      "M2.0": 200,
+      "M1.5": 84,
+      "M1.0": 20,
+      "M0.5": 20,
+      "M0.0": 63
+    },
+    {
+      "MarkUserID": "dl137",
+      "UserName": "沈俊杰",
+      "TaskNumber": 0,
+      "WorkNum": 423,
+      "YXNum": 423,
+      "YXRatio": 100.0,
+      "avgScore": 2.50,
+      "AvgTime": 1.1,
+      "varpMark": 1.34,
+      "ZPRatio": 0.0,
+      "M4.0": 134,
+      "M3.5": 51,
+      "M3.0": 3,
+      "M2.5": 1,
+      "M2.0": 117,
+      "M1.5": 45,
+      "M1.0": 22,
+      "M0.5": 14,
+      "M0.0": 36
+    },
+    {
+      "MarkUserID": "dl138",
+      "UserName": "袁绮蓉",
+      "TaskNumber": 0,
+      "WorkNum": 4,
+      "YXNum": 4,
+      "YXRatio": 100.0,
+      "avgScore": 2.13,
+      "AvgTime": 18.6,
+      "varpMark": 1.14,
+      "ZPRatio": 0.0,
+      "M4.0": 1,
+      "M3.5": 0,
+      "M3.0": 0,
+      "M2.5": 0,
+      "M2.0": 1,
+      "M1.5": 1,
+      "M1.0": 1,
+      "M0.5": 0,
+      "M0.0": 0
+    }
+  ],
+  "Table3": [
+    {
+      "QuesID": 33,
+      "QuesName": "五6",
+      "NeedMarkNum": 1,
+      "ManageStyle": 0
+    }
+  ]
+}
